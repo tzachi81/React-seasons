@@ -17,6 +17,11 @@
     height:  100vh
 }
 
+.season-display h1, .season-display h2  {
+    width: 100%;
+    height: fit-content;
+}
+
 .season-display.winter i {
     color: blue;
 }
